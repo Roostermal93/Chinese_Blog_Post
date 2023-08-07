@@ -1,5 +1,5 @@
 {
-    "count": 4,
+    "count": 5,
     "next": null,
     "previous": null,
     "results": [
@@ -23,6 +23,13 @@
             "type": "Blog_Post",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog_Post/Chinese/a766d6e2-00fd-41c5-b7b5-aa0c540facf8_zh-CN_Male.mp4"
+        },
+        {
+            "id": "aeee0c37-c4e1-4928-b8bf-506a2cb4326d",
+            "collectionId": "Chinese",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog_Post/Chinese/aeee0c37-c4e1-4928-b8bf-506a2cb4326d_zh-CN_Female.mp4"
         },
         {
             "id": "ee230816-4c94-4c0c-aad1-8ceecc51a596",
